@@ -5,4 +5,3 @@ logs/
 *.beam
 ct_run.*
 variables-ct*
-*.iml
